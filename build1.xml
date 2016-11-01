@@ -1,0 +1,20 @@
+<?xml version = "1.0"?>
+<project name = "orian" default = "jar">
+
+<target name = "jar">
+<echo> jar block executed </echo>
+</target>
+
+<target name = "run">
+<echo> run block executed </echo>
+</target>
+
+<target name = "compile">
+<echo> compile block executed </echo>
+</target>
+
+<target name = "info">
+<echo> info block executed </echo>
+</target>
+
+</project>
